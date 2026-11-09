@@ -80,4 +80,4 @@ jobs:
             fi
             
             # 7. Limpieza de imágenes y contenedores huérfanos
-            docker system prune -f
+            docker system prune -f 
